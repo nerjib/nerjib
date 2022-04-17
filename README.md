@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
@@ -59,9 +59,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Projects :
-<a href="https://nerjib.github.io/bauchiEM/#/admin/dashboard"> Zazzau Properties</a><br>
+<a href="https://nerjib.github.io/zazzau"> Zazzau Properties</a><br>
 <a href="https://zoneone.muniravantgarde.com"> AMCO</a><br>
-
 <a href="https://play.google.com/store/apps/details?id=com.nerjib.ia"> Inside Arewa mobile app</a>
 
 
